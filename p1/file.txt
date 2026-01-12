@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Hi I'm a coder!
+=======
+>>>>>>> 374fc84 (file2 commit)
